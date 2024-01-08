@@ -47,6 +47,7 @@
     font-size: 48px;
     font-weight: 700;
     margin-bottom: 48px;
+    
 }
 
 .first-section-img {
@@ -104,6 +105,7 @@
     height: 482px;
     margin: 0 auto;
     margin-bottom: 111px;
+    border-radius: 5px;
 }
 
 .section-title-1 {
@@ -332,6 +334,8 @@
 }
 .last-side{
     margin-left: 350px;
+    
+    
 }
 .email{
 font-size: 18px;
@@ -380,11 +384,16 @@ border: none;
     margin-right: 275px;
     font-size: 24px;
 }
+
 .hr{
     width: 1620px;
-    color: white;
+    color: rgb(169, 168, 168);
     margin: 50px auto;
     margin-bottom: 48px;
+}
+.hr:hover{
+    cursor: pointer;
+    
 }
 .footer-image{
     margin-left:680px;
@@ -397,7 +406,7 @@ border: none;
 .at-last-footer {
     margin-top: 48px;
     color: white;
-    margin-left: 150px;
+    margin-left: 142px;
 }
 .paragraph{
     font-size: 24px;
