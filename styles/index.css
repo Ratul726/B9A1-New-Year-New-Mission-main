@@ -188,23 +188,18 @@ color: #070211;
     color:#6a6770;
     margin-bottom: 64px;
 }
-.section-head-6{
-    display: flex;
-    
-    
-    
-}
+
 .pool{
     width: 600px;
     height: 550px;
-    margin-left: 600px;
-   
+    margin-left: 335px;
+    
 }
 
 .green{
     background-image: url("../resources/Rectangle\ 1.png");
     background-repeat: no-repeat;
-    margin-left: 595px;
+    margin-left: 1215px;
     height: 433px;
     width: 429px;
 }
@@ -213,6 +208,14 @@ color: #070211;
     width: 245px;
     height: 245px;
     margin-top: 110px;
-    margin-left: -121px;
+    margin-left: -110px;
 }
-
+.pool{
+    background-image: url("../resources/Rectangle\ 2.png");
+    width: 1309px;
+    height: 210px;
+    position: absolute;
+}
+.pool-2{
+    margin-top:-440px ;
+}
