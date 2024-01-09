@@ -332,15 +332,13 @@
 }
 .last-side{
     margin-left: 350px;
-    
-    
 }
 .email{
 font-size: 18px;
 padding: 25px 280px 25px 30px;
 border-radius: 50px 0 0 50px;
 border: none;
-
+outline: none;
 }
 .email:hover{
     outline: 0.2px solid rgba(0, 0, 0, 0.3);
@@ -348,13 +346,15 @@ border: none;
 .Subscribe{
     background-color: #ff0000;
     padding: 23px 56px;
-    margin-left: 0;
     border: none;
     color: white;
     font-size: 20px;
     border-radius: 0 50px 50px 0;
-    margin-right: 170px;
+    /* margin-right: 190px; */
     
+}
+.Subscribe{
+    cursor: pointer;
 }
 .first-footer{
     width: 100%;
